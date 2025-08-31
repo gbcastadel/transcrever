@@ -1,9 +1,4 @@
-streamlit
-openai-whisper
-torch
-transformers
-openai-whisper
-whisperx
-resemblyzer
-pydub
-scikit-learn
+streamlit>=1.25.0
+openai-whisper>=20230314
+transformers>=4.30.0
+torch>=2.0.0
