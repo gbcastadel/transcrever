@@ -1,3 +1,9 @@
 streamlit
 openai-whisper
 torch
+transformers
+openai-whisper
+whisperx
+resemblyzer
+pydub
+scikit-learn
